@@ -2,7 +2,7 @@ import threading, time
 import shared, export, camera, web
 
 setup = [
-   {"cameraID":"FrontDoor", "rtsp":"rtsp://192.168.0.186:554/user=admin&password=1cmML70g&channel=1&stream=0.sdp", "daysToKeep": 5}
+   {"cameraID":"exmaple", "rtsp":"rtsp://192.168.0.186:554/...", "daysToKeep": 5}
 ]
 
 webThread = web.main()
