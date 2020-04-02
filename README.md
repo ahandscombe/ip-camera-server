@@ -1,9 +1,8 @@
 # IP Camera Server
 
-Python based RTSP to HLS/MPEG-Dash web server
+Python and FFMPEG based RTSP to HLS/MPEG-Dash web server
 
 ## Overview
-* Uses FFMPEG
 * RTSP stream URL as input
 * HLS and MPEG-Dash live output
 * Timelapse creation
